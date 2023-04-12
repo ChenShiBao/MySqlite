@@ -178,6 +178,7 @@ namespace SqliteDemo
                 };
                 company.Add(clientEty);
             }
+
             return company;
         }
 
