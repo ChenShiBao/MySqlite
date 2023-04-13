@@ -12,3 +12,17 @@ E:\DecenProject\ConsoleApp1\SqliteDemo\obj\Debug\net6.0\refint\SqliteDemo.dll
 E:\DecenProject\ConsoleApp1\SqliteDemo\obj\Debug\net6.0\SqliteDemo.pdb
 E:\DecenProject\ConsoleApp1\SqliteDemo\obj\Debug\net6.0\SqliteDemo.genruntimeconfig.cache
 E:\DecenProject\ConsoleApp1\SqliteDemo\obj\Debug\net6.0\ref\SqliteDemo.dll
+F:\Work\llz\MySqlite\SqliteDemo\bin\Debug\net6.0\SqliteDemo.deps.json
+F:\Work\llz\MySqlite\SqliteDemo\bin\Debug\net6.0\SqliteDemo.runtimeconfig.json
+F:\Work\llz\MySqlite\SqliteDemo\bin\Debug\net6.0\SqliteDemo.dll
+F:\Work\llz\MySqlite\SqliteDemo\bin\Debug\net6.0\SqliteDemo.pdb
+F:\Work\llz\MySqlite\SqliteDemo\obj\Debug\net6.0\SqliteDemo.csproj.AssemblyReference.cache
+F:\Work\llz\MySqlite\SqliteDemo\obj\Debug\net6.0\SqliteDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\llz\MySqlite\SqliteDemo\obj\Debug\net6.0\SqliteDemo.AssemblyInfoInputs.cache
+F:\Work\llz\MySqlite\SqliteDemo\obj\Debug\net6.0\SqliteDemo.AssemblyInfo.cs
+F:\Work\llz\MySqlite\SqliteDemo\obj\Debug\net6.0\SqliteDemo.csproj.CoreCompileInputs.cache
+F:\Work\llz\MySqlite\SqliteDemo\obj\Debug\net6.0\SqliteDemo.dll
+F:\Work\llz\MySqlite\SqliteDemo\obj\Debug\net6.0\refint\SqliteDemo.dll
+F:\Work\llz\MySqlite\SqliteDemo\obj\Debug\net6.0\SqliteDemo.pdb
+F:\Work\llz\MySqlite\SqliteDemo\obj\Debug\net6.0\SqliteDemo.genruntimeconfig.cache
+F:\Work\llz\MySqlite\SqliteDemo\obj\Debug\net6.0\ref\SqliteDemo.dll

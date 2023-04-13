@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HO1PAdFViDT2AzuESmrbL17kupP4IudAtP0DhC1dN/pMA/ITlT54b0q6Pksf/HS6/3lZ1RwGRADyYEepn85Lug==",
+  "dgSpecHash": "qzNPR8ARmXxT5KOOR+tBaeCfBnbNT2+3lBPCBwoLLKVZVYUONKtyYKnDXaR1v2uwpkthxb4cqa/mTWIKB2fk8w==",
   "success": true,
-  "projectFilePath": "E:\\DecenProject\\ConsoleApp1\\SqliteDemo\\SqliteDemo.csproj",
+  "projectFilePath": "F:\\Work\\llz\\MySqlite\\SqliteDemo\\SqliteDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
